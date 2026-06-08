@@ -91,7 +91,7 @@ This project demonstrates the practical implementation of **Object-Oriented Prog
 ```text
 StockTradingPlatform
 │
-├── Main.java
+├── StockTradingApplication.java
 ├── Stock.java
 ├── Portfolio.java
 ├── Transaction.java
