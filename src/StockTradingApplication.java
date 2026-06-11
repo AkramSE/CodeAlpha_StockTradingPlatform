@@ -1,6 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Map;
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class StockTradingApplication {
     private static final Scanner scanner = new Scanner(System.in);
